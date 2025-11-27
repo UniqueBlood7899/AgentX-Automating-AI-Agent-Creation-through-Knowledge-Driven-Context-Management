@@ -1,6 +1,5 @@
-# AgentX: No-Code AI Agent Creation Platform
+# AgentX: Automating AI Agent Creation through Knowledge-Driven Context Management
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 
 > Democratizing AI agent development through natural language prompts and visual workflow planning
@@ -20,7 +19,7 @@
 
 ## 🏗️ Architecture
 
-![AgentX Architecture](architecture.jpg)
+![AgentX Architecture](Architecture.jpg)
 
 AgentX follows a modular, layered architecture:
 
